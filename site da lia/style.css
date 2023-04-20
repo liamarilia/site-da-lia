@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+color: #000000;
+background-color: 	 #af9679;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px;
+font-size: 24px;
+}
+
+body{
+    background-color: 	#d4b795;
